@@ -1,19 +1,34 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SunSeekerX/SunSeekerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a devs,nice to meet you!
 
-Here are some ideas to get you started:
+[![SunSeekerX's github stats](https://github-readme-stats.vercel.app/api?username=SunSeekerX&show_icons=true)](https://github.com/SunSeekerX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  ![visitors](
+
+
+### 📝 Worked language
+
+- ✅ JavaScript / TypeScript /HTML/CSS/ ...
+- ✅ Vue.js / React.js / ...
+- ✅ React Native / Uni-App/ Flutter  / ...
+- ✅ Node.js /Linux/ Nestjs/Java/ ...
+
+
+
+### 📮 Contact Me
+
+- [Email - youul@qq.com](youul@qq.com)
+
+
+
+### 🤪 Other
+
+[📌 My Blog - SunSeekerX](https://yoouu.cn/)
+
+[📌 My Doc](https://sunseekerx.yoouu.cn/)
+
+
+
+![visitors](
 https://enwhcizq75i6qlo.m.pipedream.net/)
 
