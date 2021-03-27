@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, hava a nice day.
+**Hi, hava a nice day.**
 
 [![SunSeekerX's github stats](https://github-readme-stats.vercel.app/api?username=SunSeekerX&show_icons=true)](https://github.com/SunSeekerX)
 
